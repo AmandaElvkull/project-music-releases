@@ -9,5 +9,5 @@ Had problem with the album hover which the icon div doesn't cover the size of th
 Had problem with getting the "," and "&" to show up at the right place, in the end StackOver Flow had the solution for us (https://stackoverflow.com/c/technigo/questions/2239). 
 
 ## View it live
-https://week5-music-release.netlify.app/
+https://dapper-pasca-d3f638.netlify.app/
 
